@@ -1,6 +1,5 @@
 """
 Name:   Carlo Meza
-ID:     1001170229
 Date:   02/04/05
 """
 
